@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[124],{555:function(t,e,n){"use strict";n.r(e);var s=n(22),r=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("h2",{attrs:{align:"center"}},[this._v("黎明之前总有一段时间特别黑。")])])}),[],!1,null,null,null);e.default=r.exports}}]);
